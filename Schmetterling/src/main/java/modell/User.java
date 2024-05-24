@@ -1,5 +1,7 @@
-package contr;
+package main.java.modell;
 
-public class User () {
+public class User {
+
+    protected int id;
 
 }

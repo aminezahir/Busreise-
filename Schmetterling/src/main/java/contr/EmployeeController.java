@@ -1,6 +1,6 @@
-package contr;
+package main.java.contr;
 
-import modell.Employee;
+import main.java.modell.Employee;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

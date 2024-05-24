@@ -1,9 +1,9 @@
-package org.busreise.Schmetterling;
+package main.java.org.busreise.Schmetterling;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import contr.FahrerController;
+import main.java.contr.FahrerController;
 import database.DBcontext;
 
 
@@ -22,5 +22,6 @@ public class App {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        System.out.println("JAA");
     }
 }

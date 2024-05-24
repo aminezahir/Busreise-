@@ -1,4 +1,4 @@
-package modell;
+package main.java.modell;
 
 public class Busreise {
     private int id;

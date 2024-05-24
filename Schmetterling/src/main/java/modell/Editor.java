@@ -1,5 +1,8 @@
-package contr;
+package main.java.modell;
 
-puclic class Editor () {
+public class Editor extends User {
+
+
+
 
 }

@@ -1,4 +1,4 @@
-package contr;
+package main.java.contr;
 
 import modell.Passagier;
 import java.sql.Connection;

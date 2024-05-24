@@ -1,6 +1,6 @@
-package contr;
+package main.java.contr;
 
-import modell.Busreise;
+import main.java.modell.Busreise;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

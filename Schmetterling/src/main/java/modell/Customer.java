@@ -1,5 +1,5 @@
-package contr;
+package main.java.modell;
 
-public class Customer () {
+public class Customer extends User {
 
 }

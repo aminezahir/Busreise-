@@ -1,4 +1,4 @@
-package contr;
+package main.java.contr;
 
 import modell.Buchung;
 import java.sql.Connection;
