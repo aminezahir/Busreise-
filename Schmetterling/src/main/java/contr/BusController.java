@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import modell.Bus;
+import main.java.modell.Bus;
 
 public class BusController {
     private Connection connection;

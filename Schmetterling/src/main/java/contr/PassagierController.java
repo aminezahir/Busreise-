@@ -1,6 +1,6 @@
 package main.java.contr;
 
-import modell.Passagier;
+import main.java.modell.Passagier;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

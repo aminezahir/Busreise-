@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import modell.Fahrer;
+import main.java.modell.Fahrer;
 
 public class FahrerController {
     private Connection connection;
