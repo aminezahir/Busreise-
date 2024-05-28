@@ -1,4 +1,4 @@
-package main.java.modell;
+package modell;
 
 public class Employee {
     private int id;

@@ -1,4 +1,4 @@
-package main.java.contr;
+package contr;
 
 public class UserController {
 

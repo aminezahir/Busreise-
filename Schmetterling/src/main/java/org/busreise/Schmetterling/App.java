@@ -1,9 +1,9 @@
-package main.java.org.busreise.Schmetterling;
+package org.busreise.Schmetterling;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import main.java.contr.FahrerController;
+import contr.FahrerController;
 import database.DBcontext;
 
 

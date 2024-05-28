@@ -1,6 +1,6 @@
-package main.java.contr;
+package contr;
 
-import main.java.modell.Buchung;
+import modell.Buchung;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

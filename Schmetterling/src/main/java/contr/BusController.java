@@ -1,10 +1,10 @@
-package main.java.contr;
+package contr;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import main.java.modell.Bus;
+import modell.Bus;
 
 public class BusController {
     private Connection connection;
